@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Sesion05_RadioButton</string>
+    <string name="Binario">Binario</string>
+    <string name="Octal">Octal</string>
+    <string name="Hexadecimal">Hexadecimal</string>
+    <string name="c1">Ingresa numero</string>
+    <string name="ct1">Binario</string>
+    <string name="ct2">Octal</string>
+    <string name="ct3">Hexadecimal</string>
+    <string name="Boton">Convertir</string>
+
+    <string name="decimal">Decimal </string>
+    <string name="binario">Binario </string>
+    <string name="octal">Octal </string>
+    <string name="hexadecimal">Hexadecimal </string>
+
+
+</resources>
